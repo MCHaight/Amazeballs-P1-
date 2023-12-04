@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Amazeballs/Amazeballs-P1-/ProjectSpooke/Content/PlayerCharacter/Player_Anim/ABP_FP_Character.uasset",
+				"D:/Amazeballs/Amazeballs-P1-/ProjectSpooke/Content/Enemies_Obstacles/Placeholder.uasset",
+				"D:/Amazeballs/Amazeballs-P1-/ProjectSpooke/Content/Assets/placeholder.uasset",
+				"D:/Amazeballs/Amazeballs-P1-/ProjectSpooke/Content/UI_Widgets/Placeholder.uasset"
+			]
+		}
+	]
+}
