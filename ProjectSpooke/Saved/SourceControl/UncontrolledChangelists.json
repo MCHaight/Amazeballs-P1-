@@ -1,0 +1,30 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Learning/Project_Spooks/test/Amazeballs-P1-/ProjectSpooke/Content/AngelOrb/Textures/Flare02.uasset",
+				"E:/Learning/Project_Spooks/test/Amazeballs-P1-/ProjectSpooke/Content/AngelOrb/Textures/RealisticSmoke02_6x6.uasset",
+				"E:/Learning/Project_Spooks/test/Amazeballs-P1-/ProjectSpooke/Content/AngelOrb/Textures/Circle01.uasset",
+				"E:/Learning/Project_Spooks/test/Amazeballs-P1-/ProjectSpooke/Content/AngelOrb/Textures/Flare00.uasset",
+				"E:/Learning/Project_Spooks/test/Amazeballs-P1-/ProjectSpooke/Content/AngelOrb/Particles/NiagaraEmitters/NE_SpriteBurst.uasset",
+				"E:/Learning/Project_Spooks/test/Amazeballs-P1-/ProjectSpooke/Content/AngelOrb/Particles/NiagaraEmitters/NE_ParticleBurst.uasset",
+				"E:/Learning/Project_Spooks/test/Amazeballs-P1-/ProjectSpooke/Content/AngelOrb/Materials/MI_AngelOrb.uasset",
+				"E:/Learning/Project_Spooks/test/Amazeballs-P1-/ProjectSpooke/Content/AngelOrb/Materials/Original/M_AngelOrb.uasset",
+				"E:/Learning/Project_Spooks/test/Amazeballs-P1-/ProjectSpooke/Content/AngelOrb/Materials/MI_Circle01.uasset",
+				"E:/Learning/Project_Spooks/test/Amazeballs-P1-/ProjectSpooke/Content/AngelOrb/Materials/MI_Flare00.uasset",
+				"E:/Learning/Project_Spooks/test/Amazeballs-P1-/ProjectSpooke/Content/AngelOrb/Materials/MI_Flare02.uasset",
+				"E:/Learning/Project_Spooks/test/Amazeballs-P1-/ProjectSpooke/Content/AngelOrb/Materials/MI_Smoke_6x6.uasset",
+				"E:/Learning/Project_Spooks/test/Amazeballs-P1-/ProjectSpooke/Content/AngelOrb/Particles/NiagaraSystems/NS_AngelOrb.uasset",
+				"E:/Learning/Project_Spooks/test/Amazeballs-P1-/ProjectSpooke/Content/Levels/LVL_ToyBox.umap",
+				"E:/Learning/Project_Spooks/test/Amazeballs-P1-/ProjectSpooke/Content/AngelOrb/Particles/NiagaraEmitters/NE_SingleParticle.uasset",
+				"E:/Learning/Project_Spooks/test/Amazeballs-P1-/ProjectSpooke/Content/AngelOrb/Textures/Angel_tex.uasset",
+				"E:/Learning/Project_Spooks/test/Amazeballs-P1-/ProjectSpooke/Content/AngelOrb/Textures/AgnelOrb_Tex.uasset",
+				"E:/Learning/Project_Spooks/test/Amazeballs-P1-/ProjectSpooke/Content/AngelOrb/Textures/cherub-angel-9637-18507-550x550.uasset",
+				"E:/Learning/Project_Spooks/test/Amazeballs-P1-/ProjectSpooke/Content/AngelOrb/Materials/M_AngelOrb.uasset"
+			]
+		}
+	]
+}
