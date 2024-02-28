@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ProjectSpooke.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Amazeballs\Amazeballs-P1-\ProjectSpooke\Intermediate\Build\Win64\x64\ProjectSpookeEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
+"D:\Amazeballs\Amazeballs-P1-\ProjectSpooke\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectSpooke\ProjectSpooke.cpp.obj"
+"D:\Amazeballs\Amazeballs-P1-\ProjectSpooke\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectSpooke\DevFolder.cpp.obj"
+"D:\Amazeballs\Amazeballs-P1-\ProjectSpooke\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectSpooke\Default.rc2.res"
+/OUT:"D:\Amazeballs\Amazeballs-P1-\ProjectSpooke\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectSpooke\UnrealEditor-ProjectSpooke.lib"

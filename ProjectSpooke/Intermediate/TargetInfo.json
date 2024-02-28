@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ProjectSpooke",
+			"Path": "..\\Source\\ProjectSpooke.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ProjectSpookeEditor",
+			"Path": "..\\Source\\ProjectSpookeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ProjectSpooke.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ProjectSpooke.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ProjectSpookeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\HoloLens">
+      <UniqueIdentifier>{4C8DD267-CDE7-336F-8602-F5F485D22BAB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\HoloLens\HoloLensEngine.ini">
+      <Filter>Config\HoloLens</Filter>
+    </None>
+    <Filter Include="Source\ProjectSpooke">
+      <UniqueIdentifier>{D2E0182F-E513-36C1-94FA-EC1A54E0A64C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ProjectSpooke\ProjectSpooke.Build.cs">
+      <Filter>Source\ProjectSpooke</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ProjectSpooke\ProjectSpooke.cpp">
+      <Filter>Source\ProjectSpooke</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectSpooke\ProjectSpooke.h">
+      <Filter>Source\ProjectSpooke</Filter>
+    </ClInclude>
+    <Filter Include="Source\ProjectSpooke\Private">
+      <UniqueIdentifier>{808CBFC0-B939-391B-A541-15811EAE4CB6}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ProjectSpooke\Private\DevFolder.cpp">
+      <Filter>Source\ProjectSpooke\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\ProjectSpooke\Public">
+      <UniqueIdentifier>{9631D50D-053A-3826-BDD3-C92BE68648B2}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\ProjectSpooke\Public\DevFolder.h">
+      <Filter>Source\ProjectSpooke\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
