@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Amazeballs/Amazeballs-P1-/ProjectSpooke/Content/Enemies_Obstacles/BasicEnemies/BP_BasicController.uasset",
+				"D:/Amazeballs/Amazeballs-P1-/ProjectSpooke/Content/Enemies_Obstacles/BasicEnemies/BP_BasicEnemy.uasset",
+				"D:/Amazeballs/Amazeballs-P1-/ProjectSpooke/Content/Levels/LVL_ToyBox.umap",
+				"D:/Amazeballs/Amazeballs-P1-/ProjectSpooke/Content/Enemies_Obstacles/BasicEnemies/EnemyActions/BTT_ChaseTarget.uasset",
+				"D:/Amazeballs/Amazeballs-P1-/ProjectSpooke/Content/Enemies_Obstacles/BasicEnemies/EnemyActions/BTT_ResetPatrol.uasset",
+				"D:/Amazeballs/Amazeballs-P1-/ProjectSpooke/Content/PlayerCharacter/Player_Systems/BP_FP_Character.uasset",
 				"C:/Amazeballs/Amazeballs-P1-/ProjectSpooke/Content/Levels/LVL_School.umap"
 			]
 		}
