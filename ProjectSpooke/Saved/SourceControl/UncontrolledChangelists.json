@@ -5,7 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Amazeballs/Amazeballs-P1-/ProjectSpooke/Content/Levels/Pickups/Bp_Base_Pickup.uasset"
+				"D:/Amazeballs/Amazeballs-P1-/ProjectSpooke/Content/Levels/Pickups/Bp_Base_Pickup.uasset",
+				"D:/Amazeballs/Amazeballs-P1-/ProjectSpooke/Content/Levels/Pickups/paint-bucket.uasset",
+				"D:/Amazeballs/Amazeballs-P1-/ProjectSpooke/Content/Levels/Pickups/Bp_paint_Can.uasset"
 			]
 		}
 	]
