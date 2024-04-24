@@ -14,7 +14,10 @@
 				"D:/Amazeballs/Amazeballs-P1-/ProjectSpooke/Content/Levels/Pickups/Pl_dodge_ball.uasset",
 				"D:/Amazeballs/Amazeballs-P1-/ProjectSpooke/Content/Levels/Pickups/PL_Rcok.uasset",
 				"D:/Amazeballs/Amazeballs-P1-/ProjectSpooke/Content/Levels/LVL_ToyBox.umap",
-				"D:/Amazeballs/Amazeballs-P1-/ProjectSpooke/Content/PlayerCharacter/Player_Systems/BP_FP_Character.uasset"
+				"D:/Amazeballs/Amazeballs-P1-/ProjectSpooke/Content/PlayerCharacter/Player_Systems/BP_FP_Character.uasset",
+				"D:/Amazeballs/Amazeballs-P1-/ProjectSpooke/Content/Enemies_Obstacles/BasicEnemies/EnemyActions/BTT_Stun.uasset",
+				"D:/Amazeballs/Amazeballs-P1-/ProjectSpooke/Content/Enemies_Obstacles/BasicEnemies/BB_BasicEnemy.uasset",
+				"D:/Amazeballs/Amazeballs-P1-/ProjectSpooke/Content/Enemies_Obstacles/BasicEnemies/BT_BasicEnemy.uasset"
 			]
 		}
 	]
