@@ -5,6 +5,19 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Amazeballs/Amazeballs-P1-/ProjectSpooke/Content/Levels/Pickups/Bp_Base_Pickup.uasset",
+				"D:/Amazeballs/Amazeballs-P1-/ProjectSpooke/Content/Levels/Pickups/paint-bucket.uasset",
+				"D:/Amazeballs/Amazeballs-P1-/ProjectSpooke/Content/Levels/Pickups/Bp_paint_Can.uasset",
+				"D:/Amazeballs/Amazeballs-P1-/ProjectSpooke/Content/UI_Widgets/W_HUD.uasset",
+				"D:/Amazeballs/Amazeballs-P1-/ProjectSpooke/Content/Levels/Pickups/BP_Rock.uasset",
+				"D:/Amazeballs/Amazeballs-P1-/ProjectSpooke/Content/Levels/Pickups/BP_Dodge_Ball.uasset",
+				"D:/Amazeballs/Amazeballs-P1-/ProjectSpooke/Content/Levels/Pickups/Pl_dodge_ball.uasset",
+				"D:/Amazeballs/Amazeballs-P1-/ProjectSpooke/Content/Levels/Pickups/PL_Rcok.uasset",
+				"D:/Amazeballs/Amazeballs-P1-/ProjectSpooke/Content/Levels/LVL_ToyBox.umap",
+				"D:/Amazeballs/Amazeballs-P1-/ProjectSpooke/Content/PlayerCharacter/Player_Systems/BP_FP_Character.uasset",
+				"D:/Amazeballs/Amazeballs-P1-/ProjectSpooke/Content/Enemies_Obstacles/BasicEnemies/BB_BasicEnemy.uasset",
+				"D:/Amazeballs/Amazeballs-P1-/ProjectSpooke/Content/Enemies_Obstacles/BasicEnemies/BT_BasicEnemy.uasset",
+				"D:/Amazeballs/Amazeballs-P1-/ProjectSpooke/Content/PlayerCharacter/Player_Systems/BP_Ghost_Player.uasset",
 				"C:/Users/booms/OneDrive/Documents/GitHub/Amazeballs-P1-/ProjectSpooke/Content/PlayerCharacter/Player_Systems/TestSound/bwing.uasset",
 				"C:/Users/booms/OneDrive/Documents/GitHub/Amazeballs-P1-/ProjectSpooke/Content/PlayerCharacter/Player_Systems/TestSound/Bwing_Atten.uasset",
 				"C:/Users/booms/OneDrive/Documents/GitHub/Amazeballs-P1-/ProjectSpooke/Content/Enemies_Obstacles/BasicEnemies/BT_BasicEnemy.uasset",
@@ -41,19 +54,7 @@
 				"C:/Users/booms/OneDrive/Documents/GitHub/Amazeballs-P1-/ProjectSpooke/Content/Enemies_Obstacles/BasicEnemies/EnemyActions/BTT_Base.uasset",
 				"C:/Users/booms/OneDrive/Documents/GitHub/Amazeballs-P1-/ProjectSpooke/Content/Enemies_Obstacles/BasicEnemies/EnemyActions/BTT_ResetPatrol.uasset",
 				"C:/Users/booms/OneDrive/Documents/GitHub/Amazeballs-P1-/ProjectSpooke/Content/Enemies_Obstacles/BasicEnemies/EnemyActions/BTT_MovementWithOverride.uasset",
-				"D:/Amazeballs/Amazeballs-P1-/ProjectSpooke/Content/Levels/Pickups/Bp_Base_Pickup.uasset",
-				"D:/Amazeballs/Amazeballs-P1-/ProjectSpooke/Content/Levels/Pickups/paint-bucket.uasset",
-				"D:/Amazeballs/Amazeballs-P1-/ProjectSpooke/Content/Levels/Pickups/Bp_paint_Can.uasset",
-				"D:/Amazeballs/Amazeballs-P1-/ProjectSpooke/Content/UI_Widgets/W_HUD.uasset",
-				"D:/Amazeballs/Amazeballs-P1-/ProjectSpooke/Content/Levels/Pickups/BP_Rock.uasset",
-				"D:/Amazeballs/Amazeballs-P1-/ProjectSpooke/Content/Levels/Pickups/BP_Dodge_Ball.uasset",
-				"D:/Amazeballs/Amazeballs-P1-/ProjectSpooke/Content/Levels/Pickups/Pl_dodge_ball.uasset",
-				"D:/Amazeballs/Amazeballs-P1-/ProjectSpooke/Content/Levels/Pickups/PL_Rcok.uasset",
-				"D:/Amazeballs/Amazeballs-P1-/ProjectSpooke/Content/Levels/LVL_ToyBox.umap",
-				"D:/Amazeballs/Amazeballs-P1-/ProjectSpooke/Content/PlayerCharacter/Player_Systems/BP_FP_Character.uasset",
-				"D:/Amazeballs/Amazeballs-P1-/ProjectSpooke/Content/Enemies_Obstacles/BasicEnemies/EnemyActions/BTT_Stun.uasset",
-				"D:/Amazeballs/Amazeballs-P1-/ProjectSpooke/Content/Enemies_Obstacles/BasicEnemies/BB_BasicEnemy.uasset",
-				"D:/Amazeballs/Amazeballs-P1-/ProjectSpooke/Content/Enemies_Obstacles/BasicEnemies/BT_BasicEnemy.uasset"
+				"D:/Amazeballs/Amazeballs-P1-/ProjectSpooke/Content/Enemies_Obstacles/BasicEnemies/EnemyActions/BTT_Stun.uasset"
 			]
 		}
 	]
